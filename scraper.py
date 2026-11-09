@@ -29,7 +29,7 @@ BASE_URL = "https://www.bigsight.jp"
 SEARCH_URL = "https://www.bigsight.jp/visitor/event/search.php"
 JSON_FILE = "events.json"
 CSV_FILE = "events.csv"
-MD_FILE = "events.md"
+MD_FILE = "README.md"
 REQUEST_DELAY = 1.0
 
 # English key → Japanese CSV header (order defines column order)
