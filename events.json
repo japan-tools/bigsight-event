@@ -1,41 +1,5 @@
 [
   {
-    "event_name": "JOIN-FURUSATO 移住・交流&地域おこしフェア 2026",
-    "event_url": "https://www.iju-join.jp/feature_cont/joinfair/",
-    "admission_type": "一般",
-    "venue": "東7ホール",
-    "period": "2026年11月14日（土）～2026年11月15日（日）",
-    "hours": "11/14 11:00～17:00, 11/15 10:00～16:00",
-    "admission_fee": "無料",
-    "organizer": "公益社団法人ふるさと回帰・移住交流推進機構（JOIN-FURUSATO）",
-    "contact": "JOIN-FURUSATO 移住・交流&地域おこしフェア事務局\nEmail：tj.join_event@mynavi.jp",
-    "logo_url": "https://www.bigsight.jp/visitor/event/img/thumbnail/25027601J.jpg"
-  },
-  {
-    "event_name": "古着フェス",
-    "event_url": "https://furugi-fes.com/?utm_source=other&utm_medium=referral&utm_campaign=2611_furugifes",
-    "admission_type": "一般",
-    "venue": "東1・2ホール",
-    "period": "2026年11月15日（日）～2026年11月15日（日）",
-    "hours": "10:00-19:00",
-    "admission_fee": "￥500 (前売あり)\n（ウェブをご参照ください）",
-    "organizer": "一般社団法人AND BUYER",
-    "contact": "FURUGI FESTIVAL事務局",
-    "logo_url": "https://www.bigsight.jp/visitor/event/img/thumbnail/25026701J.jpg"
-  },
-  {
-    "event_name": "新・農業人フェア",
-    "event_url": "https://agri.mynavi.jp/shin-nogyojin/",
-    "admission_type": "一般",
-    "venue": "東8ホール",
-    "period": "2026年11月15日（日）～2026年11月15日（日）",
-    "hours": "10:00-16:00",
-    "admission_fee": "無料",
-    "organizer": "株式会社農協観光",
-    "contact": "新・農業人フェア運営事務局\nEmail：agri-exhibit@mynavi.jp",
-    "logo_url": "https://www.bigsight.jp/visitor/event/img/thumbnail/26006701J.jpg"
-  },
-  {
     "event_name": "ハウスクリーニング展",
     "event_url": "https://bmcl.jma.or.jp/",
     "admission_type": "商談",
